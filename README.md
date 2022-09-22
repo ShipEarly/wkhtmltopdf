@@ -10,4 +10,4 @@ See official documentation: https://wkhtmltopdf.org/docs.html
 ## Credits
 Alpine Edge binary (with Qt patch): https://github.com/khalilgharbaoui/wkhtmltopdf-binary-edge-alpine
 
-TenantCloud https://github.com/tenantcloud
+Fork of deleted TenantCloud/wkhtmltopdf repository https://github.com/tenantcloud 

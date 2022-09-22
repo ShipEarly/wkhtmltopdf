@@ -1,16 +1,16 @@
 {
-  "name": "tenantcloud/wkhtmltopdf",
+  "name": "shipearly/wkhtmltopdf",
   "description": "The wkhtmltopdf binaries for OSX and Ubuntu Bionic, Buster, Focal and Apline 3.13",
   "keywords": ["pdf", "wkhtmltopdf", "binary"],
   "license": "MIT",
-  "homepage": "https://github.com/tenantcloud/wkhtmltopdf",
+  "homepage": "https://github.com/shipearly/wkhtmltopdf",
   "authors": [
     {
       "name": "Igor Bronovskyi",
-      "email": "i.bronovskyi@tenantcloud.com"
+      "email": "erick@shipearly.com"
     },
     {
-      "name": "TenantCloud",
+      "name": "ShipEarly",
       "role": "Developer"
     }
   ],

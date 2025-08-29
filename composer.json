@@ -21,7 +21,8 @@
     "binaries/amd64/wkhtmltopdf_0.12.5_linux_ubuntu_bionic",
     "binaries/amd64/wkhtmltopdf_0.12.5_linux_ubuntu_buster",
     "binaries/amd64/wkhtmltopdf_0.12.5_linux_ubuntu_focal",
-    "binaries/amd64/wkhtmltopdf_0.12.5_linux_ubuntu_xenial"
+    "binaries/amd64/wkhtmltopdf_0.12.5_linux_ubuntu_xenial",
+    "binaries/amd64/wkhtmltopdf_0.12.6_linux_ubuntu_jammy"
   ],
   "require": {}
 }
